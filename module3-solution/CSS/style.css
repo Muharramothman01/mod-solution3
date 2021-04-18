@@ -1,0 +1,75 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+
+.navbar
+{
+    background-color: rgb(156, 156, 156);
+}
+
+.navbrand a
+{
+    color: rgb(36, 36, 36);
+    text-decoration: none;
+}
+
+.navbrand a:hover,.navbrand a:focus
+{
+    color: rgb(36, 36, 36);
+    text-decoration: none;
+}
+
+.navbar-collapse
+{
+    background-color: whitesmoke;
+    border:2px solid black;
+}
+
+.nav-item h2:hover
+{
+    color:rgb(102, 61, 61);
+}
+
+.nav-item a
+{
+    color: rgb(36, 36, 36);
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.navbar-toggler
+{
+    outline: none;
+    border:2px solid black;
+    padding: 5px 9px;
+}
+
+.navbar-toggler i
+{
+    font-size: 30px;
+}
+
+.main-content
+{
+    width: auto;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Chicken p,.Beef p,.Sushi p
+{
+    background-color: rgb(156, 156, 156);
+    padding: 10px 30px;
+}
+
+.Chicken h3,.Beef h3,.Sushi h3
+{
+    background-color: rgb(156, 156, 156);
+    padding: 10px 30px;
+}
